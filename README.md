@@ -8,7 +8,7 @@ This is the only official repository of Holy David's artworks logs.
 
 ## Licenses
 
-All the artworks and the files inside this repositories are licensed under a [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./licenses/cc-by-nd-nd-4.0). Copyrights for all files belongs to Holy David.
+All the artworks and the files inside this repositories are licensed under a [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./licenses/cc-by-nd-nd-4.0.md). Copyrights for all files belongs to Holy David.
 
 ## How does it work
 
